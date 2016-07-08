@@ -1,5 +1,4 @@
 # artist
-js是世界上最好的语言！
-
+好无聊好想。。。
 
 http://ahkari.github.io/artist/
